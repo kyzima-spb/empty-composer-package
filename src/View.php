@@ -1,6 +1,6 @@
 <?php
 
-namespace Kyzimaspb\EmptyPackage;
+namespace Kyzimaspb\EmptyComposerPackage;
 
 class View
 {

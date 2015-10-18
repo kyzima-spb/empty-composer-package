@@ -1,5 +1,5 @@
 {
-    "name": "kyzima-spb/empty-package",
+    "name": "kyzima-spb/empty-composer-package",
     "description": "Package for study",
     "license": "MIT",
     "authors": [
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Kyzimaspb\\EmptyPackage\\": "./src"
+            "Kyzimaspb\\EmptyComposerPackage\\": "./src"
         }
     }
 }
