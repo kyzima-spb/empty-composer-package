@@ -6,6 +6,6 @@ class View
 {
     public static function render()
     {
-        echo 'Hi!';
+        echo 'Hi! Version 1.0.0';
     }
 }
