@@ -1,0 +1,19 @@
+{
+    "name": "kyzima-spb/empty-package",
+    "description": "Package for study",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kirill Vercetti",
+            "email": "office@kyzima-spb.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Kyzimaspb\\EmptyPackage\\": "./src"
+        }
+    }
+}
